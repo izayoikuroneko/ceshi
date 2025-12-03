@@ -39,3 +39,13 @@
 <https://img.shields.io/badge/作者-我-blue>
 [超链接](https://img.shields.io/badge/作者-我-blue)
 ![图片](https://img.shields.io/badge/作者-我-blue)
+# 测试标签6
+<details>
+
+<summary>折叠</summary>
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
